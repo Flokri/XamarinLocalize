@@ -1022,11 +1022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization.iOS\\Localization.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization.iOS\\Localization.iOS.csproj",
       "projectName": "Localization.iOS",
-      "projectPath": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization.iOS\\Localization.iOS.csproj",
+      "projectPath": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization.iOS\\Localization.iOS.csproj",
       "packagesPath": "C:\\Users\\Florian Kriegl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1047,8 +1047,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization\\Localization.csproj": {
-              "projectPath": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization\\Localization.csproj"
+            "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization\\Localization.csproj": {
+              "projectPath": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization\\Localization.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization\\Localization.csproj": {}
+    "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization\\Localization.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization\\Localization.csproj": {
+    "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization\\Localization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization\\Localization.csproj",
+        "projectUniqueName": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization\\Localization.csproj",
         "projectName": "Localization",
-        "projectPath": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization\\Localization.csproj",
+        "projectPath": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization\\Localization.csproj",
         "packagesPath": "C:\\Users\\Florian Kriegl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization\\obj\\",
+        "outputPath": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

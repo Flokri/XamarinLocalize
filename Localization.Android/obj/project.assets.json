@@ -1938,11 +1938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization.Android\\Localization.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization.Android\\Localization.Android.csproj",
       "projectName": "Localization.Android",
-      "projectPath": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization.Android\\Localization.Android.csproj",
+      "projectPath": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization.Android\\Localization.Android.csproj",
       "packagesPath": "C:\\Users\\Florian Kriegl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization.Android\\obj\\",
+      "outputPath": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1963,8 +1963,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization\\Localization.csproj": {
-              "projectPath": "C:\\Users\\Florian Kriegl\\source\\repos\\Localization\\Localization\\Localization.csproj"
+            "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization\\Localization.csproj": {
+              "projectPath": "C:\\Users\\Florian Kriegl\\source\\repos\\XamarinLocalize\\Localization\\Localization.csproj"
             }
           }
         }

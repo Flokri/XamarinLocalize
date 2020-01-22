@@ -15,6 +15,11 @@
         },
         "runtime": {
           "Localization.dll": {}
+        },
+        "resources": {
+          "de/Localization.resources.dll": {
+            "locale": "de"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
